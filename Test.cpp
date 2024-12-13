@@ -268,7 +268,6 @@ public:
     vector<User> allUsers = loadUserInfo(fileName);
     bool userExists = false;
 
-    // Update existing user if found
     for (auto& user : allUsers) {
         if (user.getName() == name) {
             user = *this; // Update user data
@@ -277,7 +276,6 @@ public:
         }
     }
 
-    // Add new user if not found
     if (!userExists) {
         allUsers.push_back(*this);
     }
@@ -288,7 +286,6 @@ public:
         return;
     }
 
-    // Write all users back to the file
     for (const auto& user : allUsers) {
         outFile << "Name: " << user.name << "\n";
         outFile << "Age: " << user.age << "\n";

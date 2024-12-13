@@ -257,7 +257,7 @@ public:
         cout << "\nNet Calories: " << fixed << setprecision(2) << netCalories << " kcal\n";
 
         if (netCalories > 0)
-            cout << "You consumed more calories than burned, you may gain weight. Consider more physical activity.\n";
+            cout << "You consumed more calories than burned, you may gain weight. \n";
         else if (netCalories < 0)
             cout << "You burned more calories than consumed. You may lose weight. \n";
         else

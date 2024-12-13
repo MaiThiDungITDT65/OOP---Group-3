@@ -1,0 +1,69 @@
+running,9.8,cardio
+walking,3.8,cardio
+cycling,7.5,cardio
+swimming,8.0,cardio
+yoga,2.5,flexibility
+dancing,5.5,cardio
+hiking,6.0,cardio
+jogging,7.0,cardio
+zumba,6.4,cardio
+boxing,9.0,strength
+climbing,8.0,strength
+gardening,4.0,daily
+cleaning,3.3,daily
+fishing,2.0,daily
+cooking,2.5,daily
+driving,2.0,daily
+mopping,4.0,daily
+shopping,1.8,daily
+eating,1.5,daily
+washing,1.8,daily
+sweeping,2.0,daily
+painting,4.0,daily
+rowing,7.0,cardio
+tennis,7.3,cardio
+football,8.0,cardio
+volleyball,4.5,cardio
+badminton,4.5,cardio
+skipping,9.5,cardio
+skating,6.0,cardio
+surfing,3.0,cardio
+kayaking,5.0,cardio
+singing,1.5,daily
+writing,1.2,daily
+reading,1.3,rest
+studying,1.8,daily
+drawing,1.8,daily
+sleeping,0.9,rest
+sitting,1.3,rest
+chatting,1.5,daily
+teaching,3.0,daily
+feeding,2.0,daily
+watering,1.5,daily
+fixing,4.0,daily
+repairing,4.5,daily
+cutting,5.0,daily
+rowing boat,7.0,cardio
+meditating,0.9,rest
+drinking,1.2,rest
+playing,1.3,daily
+helping,3.0,daily
+traveling,1.8,daily
+waiting,1.0,rest
+selling,2.5,daily
+taking,1.8,daily
+walking school,3.8,cardio
+carrying,6.0,strength
+visiting,1.8,daily
+cleaning windows,3.5,daily
+preparing food,2.8,daily
+walking stairs,4.0,cardio
+hanging laundry,2.0,daily
+repairing bikes,3.8,daily
+playing games,1.8,rest
+collecting trash,3.5,daily
+feeding animals,2.5,daily
+riding scooter,2.2,daily
+playing music,1.5,daily
+practicing martial arts,7.0,cardio
+planting trees,4.0,daily

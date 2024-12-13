@@ -1,0 +1,94 @@
+rice,130,grain
+bread,265,grain
+chicken,165,protein
+egg,155,protein
+milk,42,dairy
+cheese,402,dairy
+beef,250,protein
+fish,206,protein
+carrot,41,vegetable
+potato,77,vegetable
+tomato,18,vegetable
+broccoli,34,vegetable
+butter,717,fat
+peanut butter,590,fat
+apple,52,fruit
+banana,89,fruit
+orange,47,fruit
+pasta,131,grain
+yogurt,60,dairy
+tofu,85,protein
+eggplant,25,vegetable
+cabbage,25,vegetable
+sweet potato,86,vegetable
+spinach,23,vegetable
+cucumber,15,vegetable
+corn,86,vegetable
+mushroom,22,vegetable
+shrimp,99,protein
+pork,242,protein
+salmon,208,protein
+duck,337,protein
+oats,389,grain
+lentils,116,grain
+cashew,553,fat
+almond,579,fat
+sunflower oil,884,fat
+coconut oil,862,fat
+honey,304,carb
+sugar,387,carb
+salt,0,seasoning
+soy sauce,53,sauce
+rice noodles,109,grain
+spring roll,154,food
+pho,350,food
+banh mi,250,food
+sticky rice,97,grain
+coconut milk,230,dairy
+durian,150,fruit
+lychee,66,fruit
+ginger,80,spice
+garlic,149,spice
+chili pepper,40,vegetable
+basil,23,herb
+mint,44,herb
+green tea,1,beverage
+coffee,0,beverage
+water,0,beverage
+pineapple,50,fruit
+strawberry,33,fruit
+kiwi,61,fruit
+dragon fruit,60,fruit
+avocado,160,fruit
+chili sauce,100,sauce
+mayonnaise,680,fat
+ketchup,112,sauce
+potato chips,536,snack
+popcorn,375,snack
+chicken egg,143,protein
+quail egg,158,protein
+anchovies,131,protein
+crab,87,protein
+scallops,111,protein
+coconut water,19,beverage
+lotus seeds,89,grain
+pickled cabbage,27,vegetable
+pickled radish,30,vegetable
+kimchi,15,vegetable
+seaweed,35,vegetable
+black beans,132,grain
+kidney beans,127,grain
+white beans,139,grain
+pine nuts,673,fat
+walnuts,654,fat
+pistachios,562,fat
+dark chocolate,546,snack
+milk chocolate,535,snack
+vanilla ice cream,207,dessert
+chocolate ice cream,216,dessert
+brown sugar,380,carb
+tamarind,239,spice
+star anise,337,spice
+lemongrass,99,spice
+cardamom,311,spice
+cinnamon,247,spice

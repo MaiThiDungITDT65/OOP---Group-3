@@ -203,7 +203,7 @@ public:
         float weight = getValidFloat("Enter your weight (kg): ");
         float height = getValidFloat("Enter your height (cm): ");
         string gender = getValidString("Enter your gender (Male/Female): ");
-        string goal = getValidString("Enter your health goal (e.g., Lose Weight, Gain Muscle): ");
+        string goal = getValidString("Enter your health goal (e.g., Lose Weight, Gain Weight): ");
 
         User newUser(name, age, weight, height, gender, goal);
         usersList.push_back(newUser);
@@ -233,16 +233,20 @@ public:
     }
 
     string getBMICategory() const {
-        float bmi = calculateBMI();
-        if (bmi < 18.5)
-            return "Underweight";
-        else if (bmi < 25)
-            return "Normal";
-        else if (bmi < 30)
-            return "Overweight";
-        else
-            return "Obese";
+    float bmi = calculateBMI();
+    if (bmi < 18.5) {
+        return "Underweight: It's important to focus on gaining healthy weight. Consider increasing calorie intake with nutritious foods, and consult a healthcare provider for personalized advice.";
     }
+    else if (bmi < 25) {
+        return "Normal: Maintain a balanced diet and stay physically active to keep your weight healthy.";
+    }
+    else if (bmi < 30) {
+        return "Overweight: Consider incorporating regular exercise and making healthier food choices to reach a healthier weight. A healthcare provider can offer personalized guidance.";
+    }
+    else {
+        return "Obese: It's essential to work on achieving a healthier weight through a balanced diet and regular physical activity. Please consult a healthcare professional for tailored advice.";
+    }
+}
 
     void getSummary() const {
         cout << "\n=== User Summary ===\n";

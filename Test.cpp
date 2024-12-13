@@ -425,7 +425,7 @@ int main() {
 
             switch (choice) {
                 case 1: {
-                    string activityName = getValidString("Enter activity name(lowercase): ");
+                    string activityName = getValidString("Enter activity name (lowercase): ");
                     float duration = getValidFloat("Enter duration (minutes): ");
                     float intensityMET;
 
@@ -442,7 +442,7 @@ int main() {
                     break;
                 }
                 case 2: {
-                    string foodName = getValidString("Enter food name(lowercase): ");
+                    string foodName = getValidString("Enter food name (lowercase): ");
                     if (foodDB.find(foodName) != foodDB.end()) {
                         float caloriesPerGram = foodDB[foodName].first;
                         string foodType = foodDB[foodName].second;
